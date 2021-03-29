@@ -4,6 +4,8 @@ A simple UI framework inspired by Java and C# Canvas (WIP)
 
 This is heavily WIP and right now, doesn't work at all that I know of, I've been coding it out-of-game and trying to get the structure right.  I also haven't taken the time to investigate metatables to figure out exactly what I do and don't need to accomplish this.
 
+Feel free to make PRs to help out
+
 The end-goal is to have modular, scrollable, clickable buttons/containers/components in very few lines of code, including centering and resizing for a given canvas size
 
 An example (is in the .lua file right now as well):
